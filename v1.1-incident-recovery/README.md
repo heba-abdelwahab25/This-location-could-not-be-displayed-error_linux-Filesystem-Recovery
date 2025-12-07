@@ -6,6 +6,7 @@ This phase demonstrates the recovery of the directory ('d_harddrive') that was h
 **0. Backup Preparation**
 Before starting the recovery process, we create a backup of the original disk image ('sdaX.img') to ensure data integrity.
 -screenshot 00-backup-image.png ls -lh of sdax.img-
+![backup-image.img](screenshots/00-backup-image.png)
 
 
 **1. Attach the Disk Image as a loop Device**
