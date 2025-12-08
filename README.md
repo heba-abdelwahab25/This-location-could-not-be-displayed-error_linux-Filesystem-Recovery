@@ -11,11 +11,10 @@ Each branch and Directory represents a different phase of the learning and recov
 │                               recovering the incident, I needed to simulate it.
 
 │   ├── *README.md*: presents the steps taken, screenshots from the terminal.
-
-    │
-
+│
+    │   
 │   ├──*commands.txt*: commands used.
-
+    │
 │   └── *screenshots*: collection of clear screenshots taken from the terminal for the inputs and outputs.
 
 ├──**v1.1-Incident-recovery**: Recovery process of the hidden directory from the backup disk image, including commands, logs, and 
@@ -23,11 +22,11 @@ Each branch and Directory represents a different phase of the learning and recov
 │                               screenshots. -the same where taken for the real incident-
 
 │   ├──*README.md*: presents the steps taken for recovery, screenshots from the terminal.
-
+    │
 │   ├──*logs*: Optional raw text logs from the recovery process, Screenshots in the README document the main steps, so these logs  
-
+    │
 │   │          are provided for completeness and later review if needed.
-
+    │
 │   └──*screenshots*: Contains images captured during each step of the recovery or incident recreation.
 
 │
