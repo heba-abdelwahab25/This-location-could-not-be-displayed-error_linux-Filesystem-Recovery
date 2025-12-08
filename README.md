@@ -29,4 +29,4 @@ Each branch and Directory represents a different phase of the learning and recov
 │   └──*screenshots*: Contains images captured during each step of the recovery or incident recreation.
 
 └──**v1.2-testdisk**: testdisk is a free open source recovery tool was super useful and supportive through the incident.
-    └──*README.md*: this documents beneficial infomation about the tool and how it was used in the incident.
+        └──*README.md*: this documents beneficial infomation about the tool and how it was used in the incident.
